@@ -1,4 +1,29 @@
 {
   "type": "kendo-ui-mobile",
-  "isNew": true
+  "name": "kendoUiMobileApp",
+  "navigation": "tabstrip",
+  "views": [
+    {
+      "type": "view",
+      "name": "home",
+      "title": "Home",
+      "addToNavigation": true,
+      "components": [
+        {
+          "type": "about",
+          "name": "homeModel",
+          "contactButton": true,
+          "facebookButton": false,
+          "twitterButton": false,
+          "contactLabel": "Contact us",
+          "contactMail": "support@example.com"
+        }
+      ],
+      "icon": "home"
+    }
+  ],
+  "view": "home",
+  "skin": "flat",
+  "dataProviders": [],
+  "transition": "slide"
 }
