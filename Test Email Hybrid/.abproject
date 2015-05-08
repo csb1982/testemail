@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Test Email Hybrid",
+  "ProjectGuid": "a1f174e1-6dc9-4fe5-8efa-26c9929e46db",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.TestEmailHybrid",
+  "DisplayName": "Test Email Hybrid",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{b06be164-d575-42bc-9e66-512ad750fac3}",
+  "WP8ProductID": "{c1a4ba9a-e40a-4bc0-8754-9ef6893522d7}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.TestEmailHybrid",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
